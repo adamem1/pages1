@@ -1,6 +1,6 @@
 import React from 'react';
 function App() {
-    const greeting = 'Hello World!';
+    const greeting = 'This is technically a React site!';
 
     return (
         <div>
